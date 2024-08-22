@@ -1,0 +1,17 @@
+form {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+}
+
+input {
+  width: 40vw;
+  height: 5vh;
+}
+
+textarea {
+  width: 40vw;
+  height: 50vh;
+}
